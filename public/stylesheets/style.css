@@ -157,7 +157,7 @@ body {
     background-image: linear-gradient( to right, rgb(255, 255, 255), rgb(0, 255, 255) );
 }
 
-@media screen and (max-width: 768px) {
+@media only screen and (device-width: 20em) {
     .contact-form {
         font-size: 16px;
     }
@@ -171,17 +171,17 @@ body {
     }
 
     #ap {
-        font-size: 30px;
+        font-size: 20px;
         padding: 1px;
         position: relative;
-        top: -95px;
-        right: -850px;
+        top: -70px;
+        right: -400px;
         color: #333333;
         font-family: Copperplate / Copperplate Gothic Light, sans-serif;
     }
 
     #datos {
-        font-size: 30px;
+        font-size: 20px;
         padding: 1px;
         position: relative;
         top: 40px;
@@ -191,50 +191,50 @@ body {
     }
 
     #datos_2 {
-        font-size: 30px;
+        font-size: 20px;
         padding: 1px;
         position: relative;
-        top: 12px;
+        top: 22px;
         right: -20px;
         color: #333333;
         font-family: Impact, Charcoal, sans-serif;
     }
 
     #datos_3 {
-        font-size: 30px;
+        font-size: 20px;
         padding: 1px;
-        position: absolute;
-        top: 500px;
-        right: 300px;
+        position: relative;
+        top: 0px;
+        right: px;
         color: #333333;
         font-family: Impact, Charcoal, sans-serif;
     }
 
     #datos_4 {
-        font-size: 30px;
+        font-size: 20px;
         padding: 1px;
-        position: absolute;
-        top: 815px;
+        position: relative;
+        top: 50px;
         right: 10px;
         color: #333333;
         font-family: Impact, Charcoal, sans-serif;
     }
 
     #datos_5 {
-        font-size: 30px;
+        font-size: 20px;
         padding: 1px;
         position: relative;
-        top: 525px;
+        top: 760px;
         right: -15px;
         color: #333333;
         font-family: Impact, Charcoal, sans-serif;
     }
 
     #datos_6 {
-        font-size: 30px;
+        font-size: 20px;
         padding: 1px;
         position: relative;
-        top: 280px;
+        top: 250px;
         right: -15px;
         color: #333333;
         font-family: Impact, Charcoal, sans-serif;
@@ -244,7 +244,7 @@ body {
         font-size: 25px;
         padding: 1px;
         position: relative;
-        top: 200px;
+        top: 50px;
         right: 10px;
         color: #333333;
         font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
@@ -261,39 +261,37 @@ body {
     }
 
     #lav {
-        font-size: 25px;
+        font-size: 18px;
         padding: 1px;
         position: relative;
-        top: 280px;
+        top: 270px;
         right: -30px;
         color: #333333;
         font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
     }
 
     #info {
-        font-size: 25px;
+        font-size: 45px;
         padding: 1px;
-        position: absolute;
-        top: 575px;
+        position: relative;
+        top: 0px;
         right: -30px;
-        width: 410px;
-        height: 1000px;
         color: #333333;
         font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
     }
 
     .contact-form__h1 {
-        font-size: 40px;
+        font-size: 20px;
         padding: 0px;
         position: relative;
-        top: -20px;
-        right: -750px;
+        top: 0px;
+        right: -250px;
         color: #333333;
         font-family: Copperplate / Copperplate Gothic Light, sans-serif;
     }
 
     .contact-form__p {
-        font-size: 25px;
+        font-size: 15px;
         margin: 3px;
         padding: 3px;
         position: relative;
@@ -304,10 +302,10 @@ body {
     }
 
     #r {
-        font-size: 25px;
+        font-size: 15px;
         padding: 1px;
         position: relative;
-        top: 495px;
+        top: 750px;
         right: 01px;
         color: #333333;
         font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
