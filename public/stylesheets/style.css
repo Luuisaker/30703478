@@ -1,13 +1,15 @@
 .contact-form {
     font-size: 16px;
 }
-.f img{
+
+.f img {
     width: 170px;
     height: 170px;
     position: absolute;
     right: 280px;
     top: 60px;
 }
+
 #ap {
     font-size: 40px;
     padding: 1px;
@@ -17,6 +19,7 @@
     color: #333333;
     font-family: Copperplate / Copperplate Gothic Light, sans-serif;
 }
+
 #datos {
     font-size: 40px;
     padding: 1px;
@@ -26,62 +29,99 @@
     color: #333333;
     font-family: Impact, Charcoal, sans-serif;
 }
+
 #datos_2 {
     font-size: 40px;
     padding: 1px;
     position: relative;
-    top: -240px;
+    top: -245px;
     right: -20px;
     color: #333333;
     font-family: Impact, Charcoal, sans-serif;
 }
+
 #datos_3 {
     font-size: 40px;
     padding: 1px;
     position: relative;
-    top: -305px;
+    top: -325px;
     right: -15px;
     color: #333333;
     font-family: Impact, Charcoal, sans-serif;
 }
+
 #datos_4 {
     font-size: 40px;
     padding: 1px;
     position: absolute;
-    top: 460px;
+    top: 475px;
     right: 10px;
     color: #333333;
     font-family: Impact, Charcoal, sans-serif;
 }
+
+#datos_5 {
+    font-size: 40px;
+    padding: 1px;
+    position: relative;
+    top: -085px;
+    right: -15px;
+    color: #333333;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+#datos_6 {
+    font-size: 40px;
+    padding: 1px;
+    position: relative;
+    top: -235px;
+    right: -15px;
+    color: #333333;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
 #h {
     font-size: 25px;
     padding: 1px;
     position: relative;
-    top: -185px;
+    top: -335px;
     right: 10px;
     color: #333333;
     font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 }
+
 #es {
     font-size: 25px;
     padding: 1px;
     position: relative;
-    top: -275px;
+    top: -285px;
     right: -30px;
     color: #333333;
     font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 }
+
+#lav {
+    font-size: 25px;
+    padding: 1px;
+    position: relative;
+    top: -225px;
+    right: -30px;
+    color: #333333;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
 #info {
     font-size: 25px;
     padding: 1px;
     position: absolute;
-    top: 350px;
-    right: -20px;
+    top: 365px;
+    right: -30px;
     width: 1000px;
     height: 100px;
     color: #333333;
     font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 }
+
 .contact-form__h1 {
     font-size: 40px;
     padding: 0px;
@@ -91,13 +131,189 @@
     color: #333333;
     font-family: Copperplate / Copperplate Gothic Light, sans-serif;
 }
+
 .contact-form__p {
     font-size: 25px;
     margin: 3px;
     padding: 3px;
     position: relative;
     top: -210px;
-    left: 20px;
+    left: 15px;
     color: #333333;
     font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+#r {
+    font-size: 25px;
+    padding: 1px;
+    position: relative;
+    top: -125px;
+    right: 01px;
+    color: #333333;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+body {
+    background-image: linear-gradient( to right, rgb(255, 255, 255), rgb(0, 255, 255) );
+}
+
+@media screen and (max-width: 768px) {
+    .contact-form {
+        font-size: 16px;
+    }
+
+    .f img {
+        width: 170px;
+        height: 170px;
+        position: absolute;
+        right: 180px;
+        top: 40px;
+    }
+
+    #ap {
+        font-size: 30px;
+        padding: 1px;
+        position: relative;
+        top: -95px;
+        right: -850px;
+        color: #333333;
+        font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+    }
+
+    #datos {
+        font-size: 30px;
+        padding: 1px;
+        position: relative;
+        top: 40px;
+        right: -20px;
+        color: #333333;
+        font-family: Impact, Charcoal, sans-serif;
+    }
+
+    #datos_2 {
+        font-size: 30px;
+        padding: 1px;
+        position: relative;
+        top: 12px;
+        right: -20px;
+        color: #333333;
+        font-family: Impact, Charcoal, sans-serif;
+    }
+
+    #datos_3 {
+        font-size: 30px;
+        padding: 1px;
+        position: absolute;
+        top: 500px;
+        right: 300px;
+        color: #333333;
+        font-family: Impact, Charcoal, sans-serif;
+    }
+
+    #datos_4 {
+        font-size: 30px;
+        padding: 1px;
+        position: absolute;
+        top: 815px;
+        right: 10px;
+        color: #333333;
+        font-family: Impact, Charcoal, sans-serif;
+    }
+
+    #datos_5 {
+        font-size: 30px;
+        padding: 1px;
+        position: relative;
+        top: 525px;
+        right: -15px;
+        color: #333333;
+        font-family: Impact, Charcoal, sans-serif;
+    }
+
+    #datos_6 {
+        font-size: 30px;
+        padding: 1px;
+        position: relative;
+        top: 280px;
+        right: -15px;
+        color: #333333;
+        font-family: Impact, Charcoal, sans-serif;
+    }
+
+    #h {
+        font-size: 25px;
+        padding: 1px;
+        position: relative;
+        top: 200px;
+        right: 10px;
+        color: #333333;
+        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    }
+
+    #es {
+        font-size: 25px;
+        padding: 1px;
+        position: relative;
+        top: -10px;
+        right: -30px;
+        color: #333333;
+        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    }
+
+    #lav {
+        font-size: 25px;
+        padding: 1px;
+        position: relative;
+        top: 280px;
+        right: -30px;
+        color: #333333;
+        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    }
+
+    #info {
+        font-size: 25px;
+        padding: 1px;
+        position: absolute;
+        top: 575px;
+        right: -30px;
+        width: 410px;
+        height: 1000px;
+        color: #333333;
+        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    }
+
+    .contact-form__h1 {
+        font-size: 40px;
+        padding: 0px;
+        position: relative;
+        top: -20px;
+        right: -750px;
+        color: #333333;
+        font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+    }
+
+    .contact-form__p {
+        font-size: 25px;
+        margin: 3px;
+        padding: 3px;
+        position: relative;
+        top: 20px;
+        left: 15px;
+        color: #333333;
+        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    }
+
+    #r {
+        font-size: 25px;
+        padding: 1px;
+        position: relative;
+        top: 495px;
+        right: 01px;
+        color: #333333;
+        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    }
+
+    .body {
+        background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(0, 255, 255));
+    }
 }
